@@ -52,16 +52,14 @@ I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mai
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
-
+<p align="right">
+  <img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="420">
+</p>
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/bhuma-akshaya-reddy-bba59a381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:b.akshayareddy27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="420">
 </p>
 
 ### 📊 GitHub Stats
