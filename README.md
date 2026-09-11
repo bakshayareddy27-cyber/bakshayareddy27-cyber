@@ -60,6 +60,10 @@ I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mai
   <a href="mailto:b.akshayareddy27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="620">
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
