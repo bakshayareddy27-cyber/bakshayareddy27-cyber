@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bakshayareddy27-cyber">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Akshaya%20!!!" alt="Hello! I&#39;m Akshaya !!!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Akshaya%20!!!" alt="Hello! I'm Akshaya !!!" />
   </a>
 </p>
 
@@ -8,16 +8,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Figuring%20out%20what%20works%2C%20why%20it%20works%2C%20and%20what%20I%20can%20do%20with%20it.;a%20work%20in%20progress%2C%20with%20standards." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<table>
+<tr>
 
-I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mainly work with Python and have explored C, Java, JavaScript, HTML/CSS, Streamlit, LangChain, LangGraph, Gemini, and machine learning with XGBoost. I enjoy building AI applications, LLM-based tools, agentic systems, and automation, and I’ve taken several of my ideas from prototypes to deployed projects through hackathons and personal work.  
- I’m equally interested in the product and design side of technology, so I care about how something works as much as how people experience it. Currently, I’m learning, building, and figuring out how to turn better ideas into better software.
+<td width="68%" valign="top">
 
-🌱 &nbsp;I'm currently learning **AWS Cloud Computing**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I have a habit of turning “just a small project” into a full-blown idea.**
+<h3>🚀 About Me</h3>
 
-### 🛠️ Tech Stack
+<p>
+I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mainly work with Python and have explored C, Java, JavaScript, HTML/CSS, Streamlit, LangChain, LangGraph, Gemini, and machine learning with XGBoost. I enjoy building AI applications, LLM-based tools, agentic systems, and automation, and I’ve taken several of my ideas from prototypes to deployed projects through hackathons and personal work.
+</p>
+
+<p>
+I’m equally interested in the product and design side of technology, so I care about how something works as much as how people experience it. Currently, I’m learning, building, and figuring out how to turn better ideas into better software.
+</p>
+
+<p>
+🌱 &nbsp;I'm currently learning <strong>AWS Cloud Computing</strong><br>
+😄 &nbsp;Pronouns: <strong>she/her</strong><br>
+⚡ &nbsp;Fun fact: <strong>I have a habit of turning “just a small project” into a full-blown idea.</strong>
+</p>
+
+<h3>🔗 Connect With Me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhuma-akshaya-reddy-bba59a381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:b.akshayareddy27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h3>🛠️ Tech Stack</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -52,15 +75,19 @@ I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mai
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
-<p align="right">
-  <img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="420">
-</p>
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/bhuma-akshaya-reddy-bba59a381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:b.akshayareddy27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</td>
+
+<td width="32%" align="center" valign="top">
+
+<br>
+
+<img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="330">
+
+</td>
+
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 
@@ -82,4 +109,7 @@ I’m Bhuma Akshaya Reddy, an AIML undergrad at MLRIT, graduating in 2028. I mai
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/bakshayareddy27-cyber">bakshayareddy27-cyber</a></i></p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/bakshayareddy27-cyber">bakshayareddy27-cyber</a></i>
+</p>
