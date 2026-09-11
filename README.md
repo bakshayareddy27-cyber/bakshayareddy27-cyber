@@ -39,10 +39,21 @@ I’m equally interested in the product and design side of technology, so I care
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+</td>
 
+<td width="32%" align="center" valign="top">
+
+<br>
+
+<img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="330">
+
+</td>
+
+</tr>
+</table>
 <h3>🛠️ Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -75,19 +86,6 @@ I’m equally interested in the product and design side of technology, so I care
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
-
-</td>
-
-<td width="32%" align="center" valign="top">
-
-<br>
-
-<img src="./portrait-akshaya.svg" alt="Animated terminal portrait" width="330">
-
-</td>
-
-</tr>
-</table>
 
 ### 📊 GitHub Stats
 
